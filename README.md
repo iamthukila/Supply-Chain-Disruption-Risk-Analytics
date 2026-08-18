@@ -52,19 +52,19 @@ The dashboard provides insights into:
  ## 🖼️ Dashboard Preview
 
 ### 1. Dashboard Overview
-![Dashboard Overview](images/Dashboard%20Overview.png)
+![Dashboard Overview](./images/Dashboard_Overview.png)
 
 ### 2. Shipment Analysis
-![Shipment Analysis](images/Shipment%20Analysis.png)
+![Shipment Analysis](./images/Shipment_Analysis.png)
 
 ### 3. Inventory Analysis
-![Inventory Analysis](images/Inventory%20Analysis.png)
+![Inventory Analysis](./images/Inventory_Analysis.png)
 
 ### 4. Risk Analysis
-![Risk Analysis](images/Risk%20Analysis.png)
+![Risk Analysis](./images/Risk_Analysis.png)
 
 ### 5. Tooltip
-![Tooltip](images/Tooltip.png)
+![Tooltip](./images/Tooltip.png)
 
 ## 🎯 Project Objective
 
