@@ -1,13 +1,16 @@
 ## Dashboard Preview
 
-### Executive Overview
-![Executive Overview](Dashboard/EXECUTIVE%20OVERVIEW.png)
+### Dashboard Overview
+![Dashboard Overview](Dashboard/Dashboard%20Overview.png)
 
-### Inventory Health & Warehouse Performance
-![Inventory Health & Warehouse Performance](Dashboard/INVENTORY%20HEALTH%20%26%20WAREHOUSE%20PERFORMANCE.png)
+### Shipment Analysis
+![Shipment Analysis](Dashboard/Shipment%20Analysis.png)
 
-### Risk Intelligence Dashboard
-![Risk Intelligence Dashboard](Dashboard/RISK%20INTELLIGENCE%20DASHBOARD.png)
+### Inventory Analysis
+![Inventory Analysis](Dashboard/Inventory%20Analysis.png)
 
-### Transportation & Logistics Analytics
-![Transportation & Logistics Analytics](Dashboard/TRANSPORTATION%20%26%20LOGISTICS%20ANALYTICS.png)
+### Risk Analysis
+![Risk Analysis](Dashboard/Risk%20Analysis.png)
+
+### Tooltip
+![Tooltip](Dashboard/Tooltip.png)
