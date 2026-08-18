@@ -48,23 +48,22 @@ The dashboard provides insights into:
 * Interactive Dashboard Design
 * Risk Analysis
 * Business Insights
+## Dashboard Preview
 
- ## 🖼️ Dashboard Preview
+### Dashboard Overview
+![Dashboard Overview](Dashboard/Dashboard%20Overview.png)
 
-### 1. Dashboard Overview
-![Dashboard Overview](./images/Dashboard_Overview.png)
+### Shipment Analysis
+![Shipment Analysis](Dashboard/Shipment%20Analysis.png)
 
-### 2. Shipment Analysis
-![Shipment Analysis](./images/Shipment_Analysis.png)
+### Inventory Analysis
+![Inventory Analysis](Dashboard/Inventory%20Analysis.png)
 
-### 3. Inventory Analysis
-![Inventory Analysis](./images/Inventory_Analysis.png)
+### Risk Analysis
+![Risk Analysis](Dashboard/Risk%20Analysis.png)
 
-### 4. Risk Analysis
-![Risk Analysis](./images/Risk_Analysis.png)
-
-### 5. Tooltip
-![Tooltip](./images/Tooltip.png)
+### Tooltip
+![Tooltip](Dashboard/Tooltip.png)
 
 ## 🎯 Project Objective
 
