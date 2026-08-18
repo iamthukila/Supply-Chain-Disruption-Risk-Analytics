@@ -49,6 +49,23 @@ The dashboard provides insights into:
 * Risk Analysis
 * Business Insights
 
+ ## 🖼️ Dashboard Preview
+
+### 1. Dashboard Overview
+![Dashboard Overview](images/Dashboard%20Overview.png)
+
+### 2. Shipment Analysis
+![Shipment Analysis](images/Shipment%20Analysis.png)
+
+### 3. Inventory Analysis
+![Inventory Analysis](images/Inventory%20Analysis.png)
+
+### 4. Risk Analysis
+![Risk Analysis](images/Risk%20Analysis.png)
+
+### 5. Tooltip
+![Tooltip](images/Tooltip.png)
+
 ## 🎯 Project Objective
 
 To use data analytics and visualization techniques to identify supply chain risks and provide actionable insights into shipments, inventory, suppliers, products, and warehouse operations.
